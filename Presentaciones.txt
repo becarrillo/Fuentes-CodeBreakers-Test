@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Andres Giovanny Ballen Clavijo - Product Owner
+=======
+Nombre: Monica Alexandra Gomez Martinez
+Rol: Administrador de Bases de datos
+Descripción: Gestionar y disponer el motor de base de datos para el proyecto de software
+>>>>>>> 15a056b659966be095cd50e30358d0984162174d
