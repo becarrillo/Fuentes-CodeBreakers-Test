@@ -17,3 +17,7 @@ Descripción: Levantar necesidades del negocio
 Nombre: Brando Elí Carrillo Pérez
 Rol: Scrum Master
 Descripción: Gestionar todas las ceremonias y actividades de la metodología Scrum, y asignar los recursos a cada rol
+
+Mi nombre: Dania Cristina Cordoba Trujillo 
+Rol: Product owner 
+Descripcion: Conocer el Sofware que se va a elavorar en el proyecto 
