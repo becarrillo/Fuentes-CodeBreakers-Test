@@ -5,3 +5,7 @@ Nombre: Monica Alexandra Gomez Martinez
 Rol: Administrador de Bases de datos
 Descripción: Gestionar y disponer el motor de base de datos para el proyecto de software
 >>>>>>> 15a056b659966be095cd50e30358d0984162174d
+
+Nombre: Yoiner Esmith Molina Hurtatiz
+Rol: Desarrollador Líder 
+Descripción: Generar las fuentes para el frontend y el backend
