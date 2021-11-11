@@ -9,3 +9,8 @@ Descripción: Gestionar y disponer el motor de base de datos para el proyecto de
 Nombre: Yoiner Esmith Molina Hurtatiz
 Rol: Desarrollador Líder 
 Descripción: Generar las fuentes para el frontend y el backend
+
+
+Nombre: Javier Hernán Figueroa Casas
+Rol: Analista
+Descripción: Levantar necesidades del negocio
