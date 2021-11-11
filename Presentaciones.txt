@@ -1,0 +1,3 @@
+Nombre: Monica Alexandra Gomez Martinez
+Rol: Administrador de Bases de datos
+Descripción: Gestionar y disponer el motor de base de datos para el proyecto de software
