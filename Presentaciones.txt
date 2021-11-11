@@ -14,3 +14,6 @@ Nombre: Javier Hernán Figueroa Casas
 Rol: Analista
 Descripción: Levantar necesidades del negocio
 
+Nombre: Brando Elí Carrillo Pérez
+Rol: Scrum Master
+Descripción: Gestionar todas las ceremonias y actividades de la metodología Scrum, y asignar los recursos a cada rol
